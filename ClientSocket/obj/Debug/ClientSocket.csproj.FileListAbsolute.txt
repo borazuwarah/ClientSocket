@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.ClientSocket.resources
